@@ -1,0 +1,1 @@
+Provides the means for proper use of these resources in the operation of the computer system. Simplify, it provides ==environment== for other programs.

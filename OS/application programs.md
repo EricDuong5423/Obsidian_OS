@@ -1,0 +1,1 @@
+Such as word processors, spreadsheets, compilers and web browsers - ==define the ways in which these resources are used to solve user's computing problems==. The OS controls the hardware and coordinates its use among the various application programs for the various users.

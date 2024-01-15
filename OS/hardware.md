@@ -1,0 +1,1 @@
+Is the central processing unit (CPU), the memory and the input/output(I/0) devices-provides the basic computing resources for the system.
